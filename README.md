@@ -56,13 +56,13 @@ This is Program To Extract File CSS and JavaScript From URL Page
   $ pip3 install colorama
   ```
 
-```bash
+- ```bash
   $ pip3 install requests
-```
+  ```
 
-```bash
+- ```bash
   $ pip3 install bs4
-```
+  ```
 
 - ```bash
   $ git clone https://github.com/AsukaDev-Official/Extractor
